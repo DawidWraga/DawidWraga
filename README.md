@@ -8,7 +8,7 @@
 
 - 🤝 **I’m looking to collaborate**:
 
-  I am interested in working full-time with a small-medium sized team of agile developers who share my passion for creating software. I have experience working collaboratively in fast-paced environments, I am commited to understanding user needs and I am focused on delivering value. I feel particualry eager to work on mission-driven projects that have a positive impact on the world, and have an interest in the biotech, health and wellbeing industry, where I believe my technical and soft skills can make a real difference.
+  I am interested in working full-time with a small-medium sized team of agile developers who share my passion for creating software. I have experience working collaboratively in fast-paced environments, I am commited to understanding user needs and I am focused on delivering value. I feel particularly eager to work on mission-driven projects that have a positive impact on the world, and have an interest in the biotech, health and wellbeing industry, where I believe my technical and soft skills can make a real difference.
 
 - 📫 How to reach me:
   dpwraga@gmail.com - <a href="https://linkedin.com/in/dawid-wraga"> linkedin </a>
