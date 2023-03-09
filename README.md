@@ -76,8 +76,12 @@ Design and Prototyping
 [![Adobe Photoshop][photoshop-icon]][photoshop-url]
 [![Diagrams.net][diagrams-icon]][diagrams-url]
 
-<div/>
+</div>
 
+
+_Disclaimer: public repos and activity statistics during 2021-2022 may not accurately represent my work due many repos being private for data protection reasons._
+
+  
 [firebase-icon]: https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat
 [firebase-url]: https://firebase.google.com/
 [gcp-icon]: https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat
