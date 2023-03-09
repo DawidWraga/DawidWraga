@@ -26,7 +26,7 @@
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawidWraga&layout=compact&theme=transparent&count_private=true&show_icons=true&langs_count=8&hide=html,css" /> -->
  </div>
-<h2>i Have experience with...</h2>
+<h2>I Have experience with...</h2>
 <div align="center">
 
 Languages and Markup
