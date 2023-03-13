@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Dawid 👋</h1>
 
-- 🔭 I’m currently working on: portal for vizualising employee performance & internal messaging
+- 🔭 I’m currently working on: employee portal for data vizualisation and instant chat messaging.
 
-- 🌱 I’m currently learning: software architecture, Object Oriented Programming, SOLID principles
+- 🌱 I’m currently learning: tRPC, software architecture, Object Oriented Programming.
 
-- 💡 Fun fact: I love to learn new things - from programming, design and entrepreneurship to psychology and philsophy - my curiosity is yet to be satisfied.
+- 💡 Fun fact: I love to learn about a wide range of subjects - from programming, design and entrepreneurship to psychology and philsophy - my curiosity is yet to be satisfied.
 
 - 🤝 **I’m looking to collaborate**:
 
   I am interested in working full-time with a small-medium sized team of agile developers who share my passion for creating software. I have experience working collaboratively in fast-paced environments, I am commited to understanding user needs and I am focused on delivering value. I feel particularly eager to work on mission-driven projects that have a positive impact on the world, and have an interest in the biotech, health and wellbeing industry, where I believe my technical and soft skills can make a real difference.
 
 - 📫 How to reach me:
-  dpwraga@gmail.com - <a href="https://linkedin.com/in/dawid-wraga"> linkedin </a>
+  dpwraga@gmail.com - <a href="https://linkedin.com/in/dawid-wraga"> LinkedIn </a> - <a href="https://dawidwraga.com"> Portfolio Website  </a>
 
 <h2>Currently using</h2>
 
@@ -79,7 +79,6 @@ Design and Prototyping
 </div>
 
 
-_Disclaimer: public repos and activity statistics during 2021-2022 may not accurately represent my work due many repos being private for data protection reasons._
 
   
 [firebase-icon]: https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat
