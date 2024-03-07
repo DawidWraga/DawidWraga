@@ -19,10 +19,14 @@
   <img src="https://skillicons.dev/icons?i=ts,react,mui,next,nodejs,mysql,gcp,bash" />
 </div>
 
+<!--
 <h2>GitHub Stats</h2>
 <div align="center">
 
+
 ![Dawid Wraga's GitHub stats][github-stats-url]
+
+-->
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawidWraga&layout=compact&theme=transparent&count_private=true&show_icons=true&langs_count=8&hide=html,css" /> -->
  </div>
