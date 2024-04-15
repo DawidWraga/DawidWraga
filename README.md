@@ -1,15 +1,32 @@
 <h1 align="center">Hi, I'm Dawid 👋</h1>
 
-- 📌 I'm a software engineer and entrepreneur with a deep passion for psychology, data analysis and design. 
+- 📌 I'm a software engineer and entrepreneur passionate about software, psychology, data analysis and design. 
 
-- 🔭 My life's mission is to create digial tools that help humans to flourish. This vision has been my compass, guiding me through studies in psychology, computer science, and business - and now founding Ream.
+- 🔭 My life mission is to create tools that helps humanity to flourish, by applying psychological reseach into innovative software solutions.
+<!--
+- 🔭 My life mission is to integrate the psychological research into innovative technical solutions that help humans to flourish.
 
-- 🌱 I’m currently working on:
-  - <a href="https://reamapp.com"> Ream </a> - a digital coaching platform that integrates journalling & AI to help you clarify and achieve your goals
+- 🔭 My life's mission is to create digial tools that help humans to flourish, through integrating technology, psychology and business
+
+- 🔭 My life's mission is to create digial tools that help humans to flourish, through integrating the science of mental health and wellbeing into innovative technical solutions.
+
+- 🔭 My life's mission is integrate technology, psychology and business to create innovative digital tools that focus on flueling human flourishing
+
+- 🔭 My life's mission is integrate technology, psychology and business to create innovative digital tools that focus on improving the mental health and wellbeing of humanity.
+ 
+- 🔭 My life's mission is to create digial tools that integrate the science of mental health and wellbeing into innovative technical solutions.
+
+- 🔭 My life mission is to integrate the science of mental health and wellbeing into innovative technical solutions that help humans to flourish.
+-->
+
+- 🗺️ I’m currently working on:
+  - <a href="https://reamapp.com"> Ream </a> - A digital self-coaching platform that brings together the power of journalling & AI to help you clarify and achieve your goals.
   - <a href="https://davstack.com"> Davstack </a> - A suite of typescript libraries for building better web applications faster, including a state manager and service builder.
 
 - 📫 How to reach me:
-  <a href="https://linkedin.com/in/dawid-wraga"> LinkedIn </a> or dpwraga@gmail.com 
+  <a href="https://linkedin.com/in/dawid-wraga"> LinkedIn </a> or dpwraga@gmail.com
+
+  
 
 <h2>Currently using</h2>
 
