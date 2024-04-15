@@ -1,22 +1,20 @@
 <h1 align="center">Hi, I'm Dawid 👋</h1>
 
-- 🔭 I’m currently working on: employee portal for data vizualisation and instant chat messaging.
+- 📌 I'm a software engineer and entrepreneur with a deep passion for psychology, data analysis and design. 
 
-- 🌱 I’m currently learning: tRPC, software architecture, Object Oriented Programming.
+- 🔭 My life's mission is to create digial tools that help humans to flourish. This vision has been my compass, guiding me through studies in psychology, computer science, and business - and now founding Ream.
 
-- 💡 Fun fact: I love to learn about a wide range of subjects - from programming, design and entrepreneurship to psychology and philsophy - my curiosity is yet to be satisfied.
-
-- 🤝 **I’m looking to collaborate**:
-
-  I am interested in working full-time with a small-medium sized team of agile developers who share my passion for creating software. I have experience working collaboratively in fast-paced environments, I am commited to understanding user needs and I am focused on delivering value. I feel particularly eager to work on mission-driven projects that have a positive impact on the world, and have an interest in the biotech, health and wellbeing industry, where I believe my technical and soft skills can make a real difference.
+- 🌱 I’m currently working on:
+  - <a href="https://reamapp.com"> Ream </a> - a digital coaching platform that integrates journalling & AI to help you clarify and achieve your goals
+  - <a href="https://davstack.com"> Davstack </a> - A suite of typescript libraries for building better web applications faster, including a state manager and service builder.
 
 - 📫 How to reach me:
-  dpwraga@gmail.com - <a href="https://linkedin.com/in/dawid-wraga"> LinkedIn </a> - <a href="https://dawidwraga.com"> Portfolio Website  </a>
+  <a href="https://linkedin.com/in/dawid-wraga"> LinkedIn </a> or dpwraga@gmail.com 
 
 <h2>Currently using</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,mui,next,nodejs,mysql,gcp,bash" />
+  <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,mysql,gcp,bash" />
 </div>
 
 <!--
