@@ -2,7 +2,7 @@
 
 📌 I'm a software engineer and entrepreneur passionate about software, psychology, data analysis and design. 
 
-🔭 My life mission is to create tools that helps humanity to flourish, by applying psychological reseach into innovative software solutions.
+🔭 My life mission is to create tools that help humans flourish, by applying psychology into innovative software solutions.
 <!--
 - 🔭 My life mission is to integrate the psychological research into innovative technical solutions that help humans to flourish.
 
