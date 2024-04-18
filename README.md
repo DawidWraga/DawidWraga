@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Dawid 👋</h1>
 
-- 📌 I'm a software engineer and entrepreneur passionate about software, psychology, data analysis and design. 
+📌 I'm a software engineer and entrepreneur passionate about software, psychology, data analysis and design. 
 
-- 🔭 My life mission is to create tools that helps humanity to flourish, by applying psychological reseach into innovative software solutions.
+🔭 My life mission is to create tools that helps humanity to flourish, by applying psychological reseach into innovative software solutions.
 <!--
 - 🔭 My life mission is to integrate the psychological research into innovative technical solutions that help humans to flourish.
 
@@ -19,11 +19,11 @@
 - 🔭 My life mission is to integrate the science of mental health and wellbeing into innovative technical solutions that help humans to flourish.
 -->
 
-- 🗺️ I’m currently working on:
-  - <a href="https://reamapp.com"> Ream </a> - A digital self-coaching platform that brings together the power of journalling & AI to help you clarify and achieve your goals.
-  - <a href="https://davstack.com"> Davstack </a> - A suite of typescript libraries for building better web applications faster, including a state manager and service builder.
+🗺️ I’m currently working on:
+ - <a href="https://reamapp.com"> Ream </a> - A digital self-coaching platform that brings together the power of journalling & AI to help you clarify and achieve your goals.
+ - <a href="https://davstack.com"> Davstack </a> - A suite of typescript libraries for building better web applications faster, including a state manager and service builder.
 
-- 📫 How to reach me:
+📫 How to reach me:
   <a href="https://linkedin.com/in/dawid-wraga"> LinkedIn </a> or dpwraga@gmail.com
 
   
